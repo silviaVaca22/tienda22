@@ -1,0 +1,20 @@
+{
+    "name": "silviavaca22/tienda22",
+    "description": "sistema para tienda",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files":
+        [
+            "app/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "silvia vaca s",
+            "email": "silviavacas@gmail.com"
+        }
+    ],
+    "require": {}
+}
